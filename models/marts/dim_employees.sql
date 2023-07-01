@@ -42,4 +42,4 @@ WITH
     )
 
 SELECT *
-FROM erp_employees
+FROM join_employee_to_manager
